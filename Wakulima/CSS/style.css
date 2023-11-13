@@ -1,0 +1,27 @@
+/* Navbar */
+.navbar.bg-light {
+    background-color: #27834C !important;
+  }
+  
+  .navbar .nav-link, .navbar-brand {
+    color: #A9CE45 !important;
+  }
+  
+  .navbar .nav-link:hover {
+    color: #ffffff !important;
+  }
+  
+  /* Buttons */
+  .btn.btn-primary {
+    background-color: #A9CE45 !important;
+    border-color: #A9CE45 !important;
+  }
+  
+  .btn.btn-primary:hover {
+    background-color: #27834C !important;
+    border-color: #27834C !important;
+  }
+  
+#my-actual-content {
+    margin-bottom: 45px;
+}
